@@ -12,6 +12,7 @@ driver=new FirefoxDriver();
 driver.get("https://selenium.qabible.in/");
 driver.manage().window().maximize();
 
+
 }
 public void driverCloseAndQuit() {
 	//driver.close();
